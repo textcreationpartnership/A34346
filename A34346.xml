@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations about the currancy of guinea's, in relation to the silver-coin of the nation</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34346</idno>
+            <idno type="STC">Wing C5907</idno>
+            <idno type="STC">ESTC R215209</idno>
+            <idno type="EEBO-CITATION">99827157</idno>
+            <idno type="PROQUEST">99827157</idno>
+            <idno type="VID">31573</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34346)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31573)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1863:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations about the currancy of guinea's, in relation to the silver-coin of the nation</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the University of London, Goldsmiths' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England --  Early works to 1800.</term>
+               <term>Money --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:31573:1"/>
+            <pb n="1" facs="tcp:31573:1" rendition="simple:additions"/>
+            <head>CONSIDERATIONS About the <hi>Currancy of Guinea's,</hi> In relation to the Silver-Coin of the Nation.</head>
+            <p>I Think no Man will deny, That if Gold and Silver do not keep near upon a proportionable Value to each other, that Sort that doth exceed in Value its due Proportion, to ſuch a Degree as there may be a competent Profit to the Importer, will be Imported; and the other Sort will be Exported in lieu, and in return thereof.</p>
+            <p>Whence followeth, as I humbly conceive, with ſubmiſſion to bet<g ref="char:EOLhyphen"/>ter Judgments, That now our Silver-Coin is ſettled to its former Standard in Weight, Fineneſs, and Value, if Guinea's, which were coined but for 20 <hi>s.</hi> but were Currant for many Years at 21 <hi>s.</hi> 6 <hi>d.</hi> and two and twenty Shillings at higheſt, be not reduced now to two and twenty Shillings, which is ſome kind of Proportion to the Value of our Silver-Standard; or, if you ſuffer them to go, at the very higheſt, for above Two and twenty and ſix Pence, there will be ſuch Profit in the Importing of them, and Exporting our large Silver-Coin in lieu and in return of them, that the large Silver-Coin will be Exported as faſt as it can be Minted and creep abroad.</p>
+            <p>For, if a Man bringeth Guinea's from <hi>Holland</hi> that coſt there Twelve <hi>Guilders</hi> Ten <hi>Stivers,</hi> and ſells them here at Thirty Shillings a piece, and maketh return in large Silver-Coin, he ſhall make near Twenty four <hi>per. Cent.</hi> Profit: Or, if to procure large Silver-Coin he ſells his Guinea's but at Twenty eight Shillings, and ſends back in return thereof large Silver-Coin, he ſhall make Eighteen <hi>per. Cent.</hi> Profit. The like Advantage is in bringing them hither from other Places, which is Profit enough to bring in all the Gold in Chriſten<g ref="char:EOLhyphen"/>dom hither, in exchange of our broad Silver-Coin.</p>
+            <pb n="2" facs="tcp:31573:2"/>
+            <p>If it had been thought upon, about eight Years ſince, to prohibit the Currancy of Clipp'd Money in Payment, either to the <hi>Exche<g ref="char:EOLhyphen"/>quer,</hi> or betwixt Man and Man, I humbly conceive we had not had our Money clipp'd nor falſify'd to that degree it is, to the vaſt loſs of the Nation; nor would Gold have riſen almoſt one Third beyond its former Value; nor would People have taken Guinea's at Thirty Shillings, rather than our Currant Silver-Money; by which means Guinea's are become in a manner the moſt Currant Coin of the Nation.</p>
+            <p>And, now our great Silver-Coin is like to come abroad, if Gui<g ref="char:EOLhyphen"/>nea's be not in due time reduced to an equal Value, as near as ratio<g ref="char:EOLhyphen"/>nally can be to our Silver-Standard, as is above-mentioned, I humb<g ref="char:EOLhyphen"/>ly conceive a far greater loſs will come upon the Nation, by the extravagant Rate of the Guinea's than hath, by the clipp'd and falſe Money.</p>
+            <p>For moſt of the Silver-Coin, for the Reaſons above-mentioned, will be exported in return of Guinea's, as faſt as it comes abroad, or can be coined; and, conſequently, in a ſhort time, moſt of the Treaſure of the Nation will conſiſt in Guinea's at thirty Shillings, if they do not riſe higher; which is almoſt one Third beyond the Value.</p>
+            <p>And, conſequently, a Gentleman that receiveth 100 <hi>l. per Annum</hi> Rent, ſhall have nominally 100 <hi>l.</hi> but really no more than 66⅔ Gui<g ref="char:EOLhyphen"/>nea's; for which he ſhall buy no more than he did for ſo many Gui<g ref="char:EOLhyphen"/>nea's when they went currantly at 21 <hi>s.</hi> and 6 <hi>d.</hi> and ſo ſhall have for his nominal Hundred Pound no more, in real Value, than about Seventy one Pounds nineteen Shillings: And the Nation, in general, ſhall have for Three Millions nominal Stock in Guinea's, not much more than Two Millions Sterling real Value; for all, or moſt Com<g ref="char:EOLhyphen"/>modities, will riſe in proportion to the riſe of Gold.</p>
+            <p>But ſome will ſay; When our great Silver-Coin, and the new minted Silver comes abroad, Guinea's will fall of themſelves in courſe, to an equal Proportion in Value to our large Silver-Coin.</p>
+            <p>I anſwer, with ſubmiſſion, That it is impoſſible; foraſmuch as the Silver-Coin will be exported as faſt as it comes abroad, by rea<g ref="char:EOLhyphen"/>ſon of the Profit, as is above-mentioned; and foraſmuch as it is na<g ref="char:EOLhyphen"/>tural for moſt Men to avoid a preſent loſs, without reſpect to a grea<g ref="char:EOLhyphen"/>ter that will fall upon them hereafter, ſo, foraſmuch as moſt Men are poſſeſſed of Guinea's at 30 <hi>s.</hi> they will uſe their utmoſt endeavour to prevent their fall: Whence it neceſſary followeth, That nothing but a Proclamation, or Law, can reduce them to their due Value, or to 22 <hi>s.</hi> and 6 <hi>d.</hi> and prevent, in a great meaſure, the Exporting of our Silver-Coin.</p>
+            <p>Others will ſay, we way prevent the Exportation of our Silver-Coin by ſevere Penalties.</p>
+            <p>To this I anſwer, with ſubmiſſion, That, as long as there is Profit, it will be Exported; for, tho' Clipping be High-Treaſon, yet it did not, nor cannot ceaſe, till the Profit ceaſe by ſtopping its Currancy. It is a hanging matter in <hi>Spain</hi> to bring Silver from thence, yet all
+<pb n="3" facs="tcp:31573:2"/>the World is furniſhed with moſt of their Silver from thence. It is Felony to Export Wooll from hence, yet vaſt quantities are daily Ex<g ref="char:EOLhyphen"/>ported.</p>
+            <p>But it may be thought too ſurpriſing to reduce them at firſt clap to their loweſt Rate, and that it would be more for the Eaſe of the Subject to reduce them by degrees: For inſtance, none to pay or receive them, on Penalties to be inflicted on the Tranſgreſſors, af<g ref="char:EOLhyphen"/>ter the Firſt of <hi>February,</hi> at above 28 <hi>s.</hi> after the Firſt of <hi>March,</hi> at above 26 <hi>s.</hi> after the Firſt of <hi>April,</hi> at above 24 <hi>s.</hi> after the Firſt of <hi>May,</hi> at above 22 <hi>s.</hi> Or, ſome ſuch limited Times.</p>
+            <p>And, if it could be found practicable, to cauſe the Nation in ge<g ref="char:EOLhyphen"/>neral to make Satisfaction to each particular Man for his loſs, by a Fund to be raiſed, or by other means, it would be a great Eaſe to the Subject.</p>
+            <p>However, it is neceſſary they ſhould be reduced one way or other; for, if they be not reduced now, they muſt be reduced hereafter, for the Reaſons above-mentioned; by which time the Number will pro<g ref="char:EOLhyphen"/>bably be treble what it is; and, conſequently, the Loſs to the Nation in general, and to moſt Men in particular, will be thrice as great, as it is like to be now: And being be muſt have a Loſs, firſt or laſt, the firſt and leaſt Loſs is to be preferr'd.</p>
+            <p>Beſides, till Guinea's be reduced, as above-ſaid, there cannot be Currant Silver-Coin enough abroad in the Nation, to ſupply Pay<g ref="char:EOLhyphen"/>ments between Man and Man, and his Majeſty's Revenue; but Gui<g ref="char:EOLhyphen"/>nea's muſt continue at 30 <hi>s.</hi> or, rather, run higher, as they draw out the Silver-Coin more and more; which will be done till there be no Silver-Coin leſt in the Nation, nor Profit to the Ex<g ref="char:EOLhyphen"/>porter.</p>
+            <p>Whence it will at laſt come to that paſs, that his Majeſty's Revenues and Taxes muſt be paid in Guinea's, at 30 <hi>s.</hi> or higher, becauſe there will not be Silver-Coin in the Nation. For Silver-Bullion will be at ſuch a Rate, that none can be brought in to be coined, but at ve<g ref="char:EOLhyphen"/>ry great loſs; and, conſequently, the Mint's muſt ſtand ſtill as ſoon as the Clipp'd Money is coined.</p>
+            <p>From whence will neceſſarily follow, That ſuppoſe Six Millions be granted His Majeſty, it will be but nominal, for He will receive <hi>de facto,</hi> little more than Four Millions real Value, to the incredible loſs of the Nation, as is here above-mentioned: And, for ought I know, if they be not reduced by Authority, they may riſe to 40 <hi>s.</hi> The Conſequence whereof I leave to every thinking Man to con<g ref="char:EOLhyphen"/>ſider.</p>
+            <p>Betwixt forty and fifty Years ſince I lived in <hi>Holland,</hi> at which time their Gold-Coin went currantly in Payment betwixt Man and Man about 20 <hi>per Cent.</hi> above their uſual courſe; by reaſon whereof there was little or no Silver-Coin ſtirring, ſo that I have given 3 <hi>per Cent.</hi> advance for double <hi>Stivers,</hi> to defray the neceſſary Charges of my Houſe. The <hi>States</hi> of <hi>Holland</hi> reduced their Gold-Coins, by Proclamation, to their uſual Value of 20 <hi>per Cent.</hi> leſs than they laſt went for; and, in leſs than a Month's time, we had no want of Silver-Coins, but had as much in Value in Silver-Coins
+<pb n="4" facs="tcp:31573:3" rendition="simple:additions"/>as we had in Gold before: The like will be as to a plenty of Silver-Coins here, when Guinea's are reduced as above, but not till then; for till Guinea's be reduced to that Value, that it will be indifferent to receive Guinea's or broad Silver Standard-Coin, no broad Silver-Coin will come abroad; or, if it doth, it will be preſently Ex<g ref="char:EOLhyphen"/>ported.</p>
+            <p>But you will ſay; If we reduce Guinea's ſo low, they will be all Exported, as formerly, and then we ſhall have no Coin at all.</p>
+            <p>To this I anſwer;
+<list>
+                  <item>1. They were not formerly Exported by way of Merchandiſe, as they are now Imported, but by Gentlemen that went into the <hi>Low-Countries,</hi> and for their private Uſe and Convenience, becauſe of lightneſs of Carriage, and foraſmuch as there was little loſs in them.</item>
+                  <item>2. There will be no Profit in the Exportation, for they will not yield more beyond Sea's, and therefore will be Exported but by Pri<g ref="char:EOLhyphen"/>vate Gentlemen, for their particular Uſe and Convenience, as is above-mentioned.</item>
+                  <item>3. But ſuppoſe that vaſt Quantities ſhould be Exported, they muſt make us returns in Silver for them, for we ſhall hardly be ſo kind as to give them away: And what hurt or inconvenience will it be the Nation to have Silver for Gold?</item>
+               </list>
+            </p>
+            <p>I cou'd ſay much more on this Subject, and ſwell it into a Vo<g ref="char:EOLhyphen"/>lume, if I wou'd go about to enumerate all the Inconveniency, Sir, and Miſchiefs that attend the exceſſive Rate of Guinea's, but my Deſign is only to give a hint of an unavoidable Loſs, ready to fall upon the Nation, [it may be to ſome Millions] if it be not timely prevented: I hope no true <hi>Engliſh</hi> Man will take it amiſs, nor prefer his own private Advantage before that of the whole Nation, in a Buſineſs of ſo vaſt Importance: Wherein I pray God to direct our KING and Parliament, to the Honour and Safety of the Nation.</p>
+            <epigraph>
+               <q>
+                  <l>Si quid noviſti rectius iſtis,</l>
+                  <l>Candidus imperti, ſi non, his utere mecum.</l>
+                  <bibl>Hor.</bibl>
+               </q>
+            </epigraph>
+            <pb facs="tcp:31573:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
